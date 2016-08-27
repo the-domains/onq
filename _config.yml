@@ -1,0 +1,14 @@
+layout_spectrum: 0.5256127305328846
+typography_spectrum: 0.7797175541054457
+color:
+  brandStrength: 0.2953920257277787
+  lightness: 0.9094037646427751
+  saturation: 0.442652061348781
+  rhythmicContrast: 0.08927308185957372
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: ONQ
